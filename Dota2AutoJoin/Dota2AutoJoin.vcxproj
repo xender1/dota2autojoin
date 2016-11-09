@@ -145,7 +145,11 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="atlrx.h" />
     <ClInclude Include="Main.h" />
+    <ClInclude Include="RegExp.h" />
+    <ClInclude Include="StringProcess.h" />
+    <ClInclude Include="WinHttpClient.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dota2AutoJoin.cpp" />
